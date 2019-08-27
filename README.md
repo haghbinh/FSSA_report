@@ -1,5 +1,6 @@
-# Some reports on Jambi NDVI dataset
+# Remote sensing images analysis: Jambi NDVI dataset
 
-### [Part I: Univariate Analysis](https://haghbinh.github.io/FSSA_report/Jambi.html)
-### [Part II: FD and FTS class of NDVI Analysis](https://haghbinh.github.io/FSSA_report/Jambi2.html)
-### [Part III: FD and FTS class of NDVI Analysis](https://haghbinh.github.io/FSSA_report/Jambi3.html)
+### [Univariate Time Series Analysis](https://haghbinh.github.io/FSSA_report/Jambi.html)
+### [FSSA (Part I: Decomposition Step)](https://haghbinh.github.io/FSSA_report/Jambi2.html)
+### [FSSA (Part II: Reconstruction Step)](https://haghbinh.github.io/FSSA_report/Jambi3.html)
+### [MSSA Comparing with FSSA](https://haghbinh.github.io/FSSA_report/Jambi4.html)
