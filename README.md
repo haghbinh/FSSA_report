@@ -1,4 +1,4 @@
-# Remote sensing images analysis: Jambi NDVI dataset
+# Reports of FSSA and MFSSA on the real data sets:
 
 ### [Univariate Time Series Analysis](https://haghbinh.github.io/FSSA_report/Jambi.html)
 ### [FSSA (Univariate Visualization)](https://haghbinh.github.io/FSSA_report/uvisualization.html)
